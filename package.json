@@ -1,0 +1,17 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "A backend re-started by Anuj Chowdhury from Chai-Code Youtube Channel.",
+  "keywords": [
+    "chai-code",
+    "re-stared-series",
+    "learnt-strongly-concepts"
+  ],
+  "license": "ISC",
+  "author": "Anuj Chowdhury",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
