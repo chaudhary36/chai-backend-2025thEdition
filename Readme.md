@@ -1,5 +1,5 @@
 ```This series named "Chai-backend" is started on 07-08-2025 .
-Deadlines of this project - 18/08/2025
+Deadlines of this project - 20/08/2025
 
 
 Course by- Chai aur code 
@@ -8,3 +8,6 @@ Course by- Chai aur code
 Completed By- 
             Chowdhury36
             Account Admin's.
+
+
+            STATUS: Completed!
